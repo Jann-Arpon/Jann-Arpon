@@ -17,6 +17,10 @@ I am a passionate IT student at STI College, driven by a curiosity for technolog
   - Exploring the ins and outs of React.
   - Building server-side applications with Django or Express.js.
 
+## FUN FACT
+- I play roblox
+ - I like reading comics
+
 ## 🏆 Achievements
 - 🌟 Completed Git & GitHub Setup 2024
 - 🔭 I’m currently working on my final API project.
